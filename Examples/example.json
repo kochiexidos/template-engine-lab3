@@ -1,0 +1,13 @@
+{
+    "product_name": "Justisys",
+    "plan_reference": "JUS-5",
+    "max_users": 5,
+    "monthly_price": 25000,
+    "currency": "FCFA",
+    "billing_frequency": "yearly",
+    "annual_price": 300000,
+    "annual_support": null,
+    "minimum": null,
+    "alternative_currency": "any currency (typed)",
+    "alternative_currency_price": "price typed on the quote"
+}

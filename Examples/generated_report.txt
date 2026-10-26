@@ -1,0 +1,23 @@
+# PRODUCT REPORT
+
+## Product Information
+
+Product Name: Justisys
+Plan Reference: JUS-5
+
+## Subscription Details
+
+Maximum Active Members: 5
+Monthly Price: 25,000 FCFA
+Billing Frequency: yearly
+Annual Price: 300,000 FCFA
+
+## Additional Information
+
+Annual Support: Not specified
+Minimum: Not specified
+
+## Alternative Currency
+
+Alternative Currency: any currency (typed)
+Alternative Currency Price: price typed on the quote

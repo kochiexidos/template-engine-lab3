@@ -1,0 +1,23 @@
+# PRODUCT REPORT
+
+## Product Information
+
+Product Name: {{ product_name }}
+Plan Reference: {{ plan_reference }}
+
+## Subscription Details
+
+Maximum Active Members: {{ max_users }}
+Monthly Price: {{ "{:,.0f}".format(monthly_price) }} {{ currency }}
+Billing Frequency: {{ billing_frequency }}
+Annual Price: {{ "{:,.0f}".format(annual_price) }} {{ currency }}
+
+## Additional Information
+
+Annual Support: {{ annual_support if annual_support is not none else "Not specified" }}
+Minimum: {{ minimum if minimum is not none else "Not specified" }}
+
+## Alternative Currency
+
+Alternative Currency: {{ alternative_currency }}
+Alternative Currency Price: {{ alternative_currency_price }}
